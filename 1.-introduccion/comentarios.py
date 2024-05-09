@@ -6,3 +6,9 @@ Este es un comentario
 que posee saltos
 de línea.
 """
+
+'''
+Este es un comentario
+que posee saltos
+de línea.
+'''
